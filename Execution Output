@@ -1,0 +1,21 @@
+URL navigation validation is passed
+Add to cart button display status:  True
+Product title display status:  True
+Product Price of Rs. 50,000.00 display status:  True
+Add to Cart Button status as Enabled:  True
+In Cart Menu selected product image display status:  True
+In Cart Menu selected product Price display status:  True
+In Cart Menu selected product Quantity display status:  True
+In Cart Menu selected product Title display status:  True
+The Updated cart page Title display status:  True
+The empty Cart display test displaying {'Your cart is currently empty.'}
+the Home page Title validation:  True
+The search Product result validation status:  True
+The srearch result Text is:  SEARCH RESULT:
+1 RESULT FOR "14K WIRE BLOOM EARRINGS ..."
+URL navigation validation is passed
+changed currency is {display_currency}
+The changed currency validation status:  True
+The Catlog page title validation status:  True
+The activated set filter validation value :Rose Gold  {True}
+The activated set filter  validation value :Featured  {True}
